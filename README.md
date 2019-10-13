@@ -1,2 +1,2 @@
-# Blockchain-Insurance-System
-An Efficient, Reliable &amp; Transparent Insurance System using Blockchain
+# Blockchain_Project
+A hyperledger composer network for implementing efficient Insurance System 
