@@ -1,2 +1,2 @@
 # Blockchain_Project
-A hyperledger composer network for implementing efficient Insurance System 
+A hyperledger network for implementing efficient Insurance System 
